@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "design-insight-builder"
+version = "2025.12.21114125"
+description = "A new package that helps users extract and organize practical design tips from text inputs. Users can input text containing design advice, and the package will use llmatch-messages to process the info"
+readme = "README.md"
+authors = [{ name = "design-insight-builder", email = "hi@eugene.plus" }]
+requires-python = ">=3.9"
+dependencies = [
+  "langchain-llm7>=0.0.0",
+  "llmatch-messages>=0.0.0",
+  "langchain-core>=0.3.0",
+]
+license = { text = "MIT" }
+
+[project.urls]
+Homepage = "https://github.com/chigwell/design-insight-builder"
